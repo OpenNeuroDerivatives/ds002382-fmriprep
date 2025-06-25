@@ -1,0 +1,31 @@
+Warning: Permanently added 'c121-023' (ECDSA) to the list of known hosts.
+WARNING (02/21/24 23:03:47): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6123006.hostlist.CpThNk72 to get hosts
+starting job on c121-023
+starting job on c121-024
+starting job on c121-031
+starting job on c121-032
+starting job on c132-003
+starting job on c132-004
+starting job on c132-011
+starting job on c132-012
+starting job on c132-013
+starting job on c132-014
+starting job on c141-142
+starting job on c141-143
+starting job on c141-144
+starting job on c141-151
+starting job on c141-152
+starting job on c141-153
+slurmstepd: error: *** JOB 6123006 ON c121-023 CANCELLED AT 2024-02-22T15:03:46 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
