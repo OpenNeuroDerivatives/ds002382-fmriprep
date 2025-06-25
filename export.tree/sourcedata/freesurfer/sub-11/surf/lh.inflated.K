@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Wj/X2/MD5E-s860719--a4c0b078e7846d0b17e6fce972acd80f.K/MD5E-s860719--a4c0b078e7846d0b17e6fce972acd80f.K
